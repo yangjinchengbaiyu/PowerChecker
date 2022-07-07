@@ -4,7 +4,7 @@ import sys
 sys.setrecursionlimit(1000000)
  
 name = 'PowerChecker'
-path = 'PowerChecker.exe'
+path = 'PowerChecker.pyw'
  
 KeyName = r'Software\\Microsoft\\Windows\\CurrentVersion\\Run'
  
